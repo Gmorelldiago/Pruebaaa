@@ -2,4 +2,4 @@
 Repositorio de prueba para el modulo LGMSI
 
 ## Ejercicios
-Voy a subir ejercicios de clase
+Voy a subir ejercicios de clas
